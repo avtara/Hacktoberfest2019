@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Muhammad Avtara Khrisna
+- Photo: https://avatars1.githubusercontent.com/u/26185394?s=400&u=7a8e420b81d95f3f62d9b4fd950d4c8ae0066b35&v=4
+- Location: Bandung, Indonesia
+- Bio: 📱 Android Developer . 💻 Open Source Contributor
+- Github: https://github.com/avtara
